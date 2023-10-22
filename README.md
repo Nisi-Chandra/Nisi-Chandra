@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nisi-Chandra
-- 👀 I’m interested in Infra Automation 
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on AWS Terraform Projects
+- 👀 I’m interested in AWS Cloud and Infra Automation 
+   💞️ I’m looking to collaborate on AWS Terraform Projects
 - 📫 How to reach me ...nisichandra7@g**il.com
 
 <!---
